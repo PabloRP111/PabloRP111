@@ -19,9 +19,3 @@ I'm always open to working on **AI**, **Big Data**, or **software development** 
 - 📧 Email: asraum111@gmail.com  
 - 🔗 https://www.linkedin.com/in/pablo-rosas-plaza-604446200/(#)  
 
----
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)  
-
