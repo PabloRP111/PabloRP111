@@ -72,7 +72,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/Philosophers.git">
+            <a href="https://github.com/PabloRP111/Philosophers">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true" alt="Philo Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Philo Score">
@@ -94,5 +94,5 @@ I'm always open to working on **AI**, **Big Data**, or **software development** 
 
 ## 📫 Get In Touch
 - 📧 Email: asraum111@gmail.com  
-- 🔗 https://www.linkedin.com/in/pablo-rosas-plaza-604446200/(#)  
+- 🔗 https://www.linkedin.com/in/pablo-rosas-plaza-604446200
 
