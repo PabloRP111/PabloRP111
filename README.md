@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there! 👋 I'm Pablo,
 
 ### Passionate about programming, constantly exploring new technologies. 
