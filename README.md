@@ -6,13 +6,9 @@
 I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, **Big Data**, and **Software Development**. I'm always learning and exploring new technologies 💻
 
 ## Programming Languages
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=python&logoColor=white&logoWidth=50)
-
-![C](https://img.shields.io/static/v1?label=&message=C&color=blue&logo=c&logoColor=white)
-![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=blue&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=blue&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=blue&logo=java&logoColor=white)
-
+<a href="https://github.com/PabloRP111/PabloRP111">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java" alt="My Skills">
+</a>
 
 ## 🛠️ Technologies & Tools
 - **AI & ML**: Scikit-learn, KNIME, NumPy, Pandas, Matplotlib, Seaborn
