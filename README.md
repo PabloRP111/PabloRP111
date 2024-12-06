@@ -54,7 +54,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
             <a href="https://github.com/PabloRP111/42SoLong">
                 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png" alt="PushSwap Logo">
                 <br>
-                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Fractol Score">
+                <img src="https://img.shields.io/badge/Score-115%2F100-brightgreen" alt="Fractol Score">
             </a>
         </td>
         <td style="text-align: center;">
@@ -66,7 +66,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
         </td>
         <td style="text-align: center;">
             <a href="https://github.com/PabloRP111/42Pipex">
-                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/pipex.png" alt="Pipex Logo">
+                <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="Pipex Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Pipex Score">
             </a>
