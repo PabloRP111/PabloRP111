@@ -6,7 +6,8 @@
 I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, **Big Data**, and **Software Development**. I'm always learning and exploring new technologies 💻
 
 ## Programming Languages
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=python&logoColor=white)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=python&logoColor=white&logoWidth=50)
+
 ![C](https://img.shields.io/static/v1?label=&message=C&color=blue&logo=c&logoColor=white)
 ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=blue&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=blue&logo=sqlite&logoColor=white)
@@ -17,7 +18,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 - **AI & ML**: Scikit-learn, KNIME, NumPy, Pandas, Matplotlib, Seaborn
 - **Big Data**: Hadoop
 - **Cloud**: AWS, Google Cloud  
-- **Tools**: ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white) ![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white) ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black)
+- **Tools**:  ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white) ![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white) ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black)
 
 ## 🌍 Let's Collaborate!
 I'm always open to working on **AI**, **Big Data**, or **software development** projects that push boundaries. Feel free to reach out if you'd like to collaborate.
