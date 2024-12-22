@@ -21,7 +21,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 <table style="margin: auto;">
     <tr>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/Libft">
+            <a href="https://github.com/PabloRP111/C/tree/main/libft">
                 <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
@@ -42,7 +42,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/Born2beroot">
+            <a href="https://github.com/PabloRP111/C/tree/main/born_to_be_root">
                 <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
