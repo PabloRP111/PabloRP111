@@ -28,14 +28,14 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/Printf">
+            <a href="https://github.com/https://github.com/PabloRP111/C/tree/main/printf">
                 <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/GNL">
+            <a href="https://github.com/PabloRP111/C/tree/main/get_next_line">
                 <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
@@ -51,28 +51,28 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
     </tr>
     <tr>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/SoLong">
+            <a href="https://github.com/PabloRP111/C/tree/main/so_long">
                 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png" alt="PushSwap Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-115%2F100-brightgreen" alt="Fractol Score">
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/PushSwap">
+            <a href="https://github.com/PabloRP111/C/tree/main/push_swap">
                 <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swapm.png" alt="PushSwap Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="PushSwap Score">
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/Pipex">
+            <a href="https://github.com/PabloRP111/C/tree/main/pipex">
                 <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="Pipex Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Pipex Score">
             </a>
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/Philosophers">
+            <a href="https://github.com/PabloRP111/C/tree/main/philosophers">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true" alt="Philo Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Philo Score">
@@ -81,7 +81,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
     </tr>
     <tr>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/Minishell">
+            <a href="https://github.com/PabloRP111/C/tree/main/minishell">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png?raw=true" alt="Minishell Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-101%2F100-brightgreen" alt="Minishell Score">
