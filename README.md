@@ -18,6 +18,12 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 
 ## 42 Projects
 
+Haz clic en el siguiente enlace para ver todos mis proyectos de 42:
+
+🔗 [Repositorio de Proyectos de 42](https://github.com/PabloRP111/C/tree/main/)
+
+---
+
 <table style="margin: auto;">
     <tr>
         <td style="text-align: center;">
