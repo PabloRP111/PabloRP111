@@ -95,6 +95,14 @@ Click the following link to view all my 42 projects:
         </td>
 </table>
 
+## IA Proyects
+
+Click the following link to view my IA proyects:
+
+🔗 [IA proyects repository](https://github.com/PabloRP111/IA-development)
+
+---
+
 ## 🌍 Let's Collaborate!
 I'm always open to working on **AI**, **Big Data**, or **software development** projects that push boundaries. Feel free to reach out if you'd like to collaborate.
 
