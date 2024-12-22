@@ -18,9 +18,9 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 
 ## 42 Projects
 
-Haz clic en el siguiente enlace para ver todos mis proyectos de 42:
+Click the following link to view all my 42 projects:
 
-🔗 [Repositorio de Proyectos de 42](https://github.com/PabloRP111/C/tree/main/)
+🔗 [42 proyects repository](https://github.com/PabloRP111/C/tree/main/)
 
 ---
 
