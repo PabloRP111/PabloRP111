@@ -7,7 +7,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 
 ## Programming Languages
 <a href="https://github.com/PabloRP111/PabloRP111">
-    <img src="https://skillicons.dev/icons?i=python,c,sql,java,kotlin, html" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,c,sql,java" alt="My Skills">
 </a>
 
 ## 🛠️ Technologies & Tools
