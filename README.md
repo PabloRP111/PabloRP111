@@ -148,8 +148,3 @@ Click the following link to view all my 42 projects:
 
 ## 🌍 Let's Collaborate!
 I'm always open to working on **AI**, **Big Data**, or **software development** projects that push boundaries. Feel free to reach out if you'd like to collaborate.
-
-## 📫 Get In Touch
-- 📧 Email: asraum111@gmail.com  
-- 🔗 https://www.linkedin.com/in/pablo-rosas-plaza-604446200
-
