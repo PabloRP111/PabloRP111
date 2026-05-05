@@ -94,6 +94,13 @@ Click the following link to view all my 42 projects:
             </a>
         </td>
         <td style="text-align: center;">
+            <a href="https://github.com/PabloRP111/C/tree/main/netpractice">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticem.png?raw=true" alt="NetPractice Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="NetPractice Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
             <a href="https://github.com/PabloRP111/C/tree/main/cpp">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppm.png?raw=true" alt="Cpp Logo">
                 <br>
@@ -107,6 +114,15 @@ Click the following link to view all my 42 projects:
                 <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Cub3D Score">
             </a>
         </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <a href="https://github.com/PabloRP111/C/tree/main/inception">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png?raw=true" alt="Inception Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Inception Score">
+            </a>
+        </td>
         <td style="text-align: center;">
             <a href="https://github.com/PabloRP111/C/tree/main/irc">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png?raw=true" alt="IRC Logo">
@@ -114,6 +130,14 @@ Click the following link to view all my 42 projects:
                 <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="IRC Score">
             </a>
         </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/PabloRP111/ft_Transcendence">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencem.png?raw=true" alt="Transcendence Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-120%2F100-brightgreen" alt="Transcendence Score">
+            </a>
+        </td>
+    </tr>
 </table>
 
 ## IA Proyects
