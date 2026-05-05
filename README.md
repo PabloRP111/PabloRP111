@@ -101,7 +101,7 @@ Click the following link to view all my 42 projects:
 
 ## WEB Proyect
 
-🔗 [IA proyects repository](https://github.com/PabloRP111/ft_Transcendence)
+🔗 [Web App repository](https://github.com/PabloRP111/ft_Transcendence)
 
 ---
 
