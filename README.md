@@ -93,6 +93,27 @@ Click the following link to view all my 42 projects:
                 <img src="https://img.shields.io/badge/Score-101%2F100-brightgreen" alt="Minishell Score">
             </a>
         </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/PabloRP111/C/tree/main/cpp">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppm.png?raw=true" alt="Cpp Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-120%2F100-brightgreen" alt="Cpp Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/PabloRP111/C/tree/main/cub3d">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png?raw=true" alt="Cub3D Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Cub3D Score">
+            </a>
+        </td>
+        <td style="text-align: center;">
+            <a href="https://github.com/PabloRP111/C/tree/main/irc">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png?raw=true" alt="IRC Logo">
+                <br>
+                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="IRC Score">
+            </a>
+        </td>
 </table>
 
 ## IA Proyects
