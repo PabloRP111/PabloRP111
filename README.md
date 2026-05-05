@@ -7,7 +7,7 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 
 ## Programming Languages
 <a href="https://github.com/PabloRP111/PabloRP111">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html, css" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,html,css" alt="My Skills">
 </a>
 
 ## 🛠️ Technologies & Tools
@@ -97,9 +97,11 @@ Click the following link to view all my 42 projects:
 
 ## IA Proyects
 
-Click the following link to view my IA proyects:
-
 🔗 [IA proyects repository](https://github.com/PabloRP111/IA-development)
+
+## WEB Proyect
+
+🔗 [IA proyects repository](https://github.com/PabloRP111/ft_Transcendence)
 
 ---
 
