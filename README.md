@@ -7,14 +7,14 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 
 ## Programming Languages
 <a href="https://github.com/PabloRP111/PabloRP111">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,aws" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html, css" alt="My Skills">
 </a>
 
 ## 🛠️ Technologies & Tools
 - **AI & ML**: Scikit-learn, KNIME, NumPy, Pandas, Matplotlib, Seaborn
 - **Big Data**: Hadoop
 - **Cloud**: AWS, Google Cloud  
-- **Tools**:  ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white) ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black)
+- **Tools**:   ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white) ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black)
 
 ## 42 Projects
 
