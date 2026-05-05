@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Pablo,
 
-### Passionate about programming, constantly exploring new technologies. 
-
 ## 🚀 About Me
 I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, **Big Data**, and **Software Development**. I'm always learning and exploring new technologies 💻
 
