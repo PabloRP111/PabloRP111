@@ -12,129 +12,6 @@ I’m an enthusiastic programmer diving deep into **Artificial Intelligence**, *
 - **Cloud**: AWS, Google Cloud  
 - **Tools**:   ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white) ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black)
 
-## 42 Projects
-
-Click the following link to view all my 42 projects:
-
-🔗 [42 proyects repository](https://github.com/PabloRP111/C/tree/main/)
-
----
-
-<table style="margin: auto;">
-    <tr>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/libft">
-                <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/https://github.com/PabloRP111/C/tree/main/printf">
-                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png" alt="Printf Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/get_next_line">
-                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linem.png" alt="GNL Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="GNL Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/born_to_be_root">
-                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2berootm.png" alt="B2BR Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="B2BR Score">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/so_long">
-                <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png" alt="PushSwap Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-115%2F100-brightgreen" alt="Fractol Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/push_swap">
-                <img src="https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swapm.png" alt="PushSwap Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="PushSwap Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/pipex">
-                <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="Pipex Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Pipex Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/philosophers">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true" alt="Philo Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Philo Score">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/minishell">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png?raw=true" alt="Minishell Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-101%2F100-brightgreen" alt="Minishell Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/netpractice">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticem.png?raw=true" alt="NetPractice Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="NetPractice Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/cpp">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppm.png?raw=true" alt="Cpp Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-120%2F100-brightgreen" alt="Cpp Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/cub3d">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png?raw=true" alt="Cub3D Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Cub3D Score">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/inception">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png?raw=true" alt="Inception Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Inception Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/irc">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png?raw=true" alt="IRC Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="IRC Score">
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/ft_Transcendence">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencem.png?raw=true" alt="Transcendence Logo">
-                <br>
-                <img src="https://img.shields.io/badge/Score-120%2F100-brightgreen" alt="Transcendence Score">
-            </a>
-        </td>
-    </tr>
-</table>
 
 ## IA Proyects
 
@@ -143,6 +20,52 @@ Click the following link to view all my 42 projects:
 ## WEB Proyect
 
 🔗 [Web App repository](https://github.com/PabloRP111/ft_Transcendence)
+
+---
+
+# 🏆 42 Projects
+
+Click the following link to view all my 42 projects:
+
+🔗 [42 proyects repository](https://github.com/PabloRP111/C/tree/main/)
+
+## Standalone Repositories
+
+| Minishell | cub3D | ft_irc | ft_transcendence |
+|-----------|--------|---------|------------------|
+| [![Minishell](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minishelle.png)](https://github.com/PabloRP111/C/tree/main/minishell) | [![cub3D](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/cub3de.png)](https://github.com/PabloRP111/C/tree/main/cub3d) | [![IRC](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_irce.png)](https://github.com/PabloRP111/C/tree/main/irc) | [![Transcendence](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_transcendencem.png)](https://github.com/PabloRP111/ft_Transcendence) |
+
+---
+
+## Common Core Projects
+
+| Libft | ft_printf | get_next_line | Born2beroot | so_long |
+|-------|------------|----------------|-------------|----------|
+| [![Libft](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png)](https://github.com/PabloRP111/C/tree/main/libft) | [![Printf](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png)](https://github.com/PabloRP111/C/tree/main/printf) | [![GNL](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linee.png)](https://github.com/PabloRP111/C/tree/main/get_next_line) | [![Born2beroot](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/born2beroote.png)](https://github.com/PabloRP111/C/tree/main/born_to_be_root) | [![so_long](https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png)](https://github.com/PabloRP111/C/tree/main/so_long) |
+
+| Push_swap | Pipex | Philosophers | NetPractice | CPP Modules |
+|------------|--------|--------------|--------------|--------------|
+| [![PushSwap](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swapm.png)](https://github.com/PabloRP111/C/tree/main/push_swap) | [![Pipex](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png)](https://github.com/PabloRP111/C/tree/main/pipex) | [![Philosophers](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png?raw=true)](https://github.com/PabloRP111/C/tree/main/philosophers) | [![NetPractice](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/netpracticee.png)](https://github.com/PabloRP111/C/tree/main/netpractice) | [![CPP](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/cppm.png)](https://github.com/PabloRP111/C/tree/main/cpp) |
+
+| Inception |
+|------------|
+| [![Inception](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png)](https://github.com/PabloRP111/C/tree/main/inception) |
+
+---
+
+## 🧠 Soft Skills
+
+| Self-learning | Teamwork | Problem Solving | Creativity | Communication |
+|----------------|----------|-----------------|------------|----------------|
+| ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/eventsm.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/evaluationm.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/volunteere.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/entrepreneure.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/surveye.png) |
+
+### What I bring to a team
+- Fast adaptability to new technologies and environments
+- Strong analytical and problem-solving mindset
+- Experience working both independently and in collaborative teams
+- Continuous learning mentality
+- Attention to detail and clean code practices
+- Ability to manage complex technical projects
 
 ---
 
