@@ -49,7 +49,7 @@ Click the following link to view all my 42 projects:
 
 | Inception |
 |------------|
-| [![Inception](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png)](https://github.com/PabloRP111/C/tree/main/inception) |
+| [![Inception](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png)](https://github.com/PabloRP111/C/tree/main/Inception) |
 
 ---
 
